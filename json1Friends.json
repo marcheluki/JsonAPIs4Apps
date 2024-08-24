@@ -1,5 +1,5 @@
 [
-    {"name": "A", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
-    {"name": "B", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
-    {"name": "C", "age": "20", "picture": "http://someurl.com/apicture.jpg"}
+    {"name": "Adela", "age": "20", "picture": "https://i.pinimg.com/564x/50/cd/d4/50cdd44b8330bbba5309c112c58e9163.jpg"},
+    {"name": "Mariana", "age": "20", "picture": "https://i.pinimg.com/564x/2b/02/32/2b02325f258c2dcd3d4bd55421683bd2.jpg"},
+    {"name": "Lucas", "age": "20", "picture": "https://i.pinimg.com/736x/d1/e1/a6/d1e1a60926b5e185867260610b4e8799.jpg"}
 ]
