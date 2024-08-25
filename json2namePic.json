@@ -1,5 +1,8 @@
 [
-    {"name": "A",  "picture": "http://someurl.com/apicture.jpg"},
-    {"name": "B",  "picture": "http://someurl.com/apicture.jpg"},
-    {"name": "C",  "picture": "http://someurl.com/apicture.jpg"}
+    {"name": "Reading",  "picture": "https://i.pinimg.com/564x/04/56/5b/04565b85a9bd5550908121a32a701f80.jpg"},
+    {"name": "Pottery",  "picture": "https://i.pinimg.com/564x/16/05/c6/1605c6399f2fe3e684c0fb17f705c9a7.jpg"},
+    {"name": "Swimming",  "picture": "https://i.pinimg.com/564x/95/45/59/954559616080c34ba41dd1d361edfb35.jpg"},
+    {"name": "Bouldering",  "picture": "https://i.pinimg.com/564x/99/27/51/9927510bc8d96d842c55c4c61ca13528.jpg"},
+    {"name": "Hiking",  "picture": "https://i.pinimg.com/564x/93/d9/4e/93d94ec7537832d122996503638fd32c.jpg"},
+    {"name": "Traveling",  "picture": "https://i.pinimg.com/564x/b1/25/9a/b1259a0e61baa8e32bc115dae375de14.jpg"}
 ]
